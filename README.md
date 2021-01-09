@@ -1,6 +1,4 @@
-Player de música - HTML + CSS e JavaScript
-
-O o player de música web/mobile em HTML+CSS e JS é parte de uma série de desafios pessoais para explorar ideias em design de interface de usuário/Ui design. <p>
+O player de música web/mobile em HTML+CSS e JS é parte de uma série de desafios pessoais para explorar ideias em design de interface de usuário/Ui design. <p>
 Fique a vontade para forkar/clonar e dá uma ⭐️
 
 
